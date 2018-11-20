@@ -2,7 +2,7 @@
   "name": "robonomics-status",
   "version": "1.0.0",
   "main": "src/index.js",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "scripts": {
     "local": "nodemon src/index.js --exec babel-node",
     "start": "node dist/index.js",
